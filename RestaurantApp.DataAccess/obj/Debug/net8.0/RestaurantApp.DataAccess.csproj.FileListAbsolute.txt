@@ -1,0 +1,17 @@
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\bin\Debug\net8.0\RestaurantApp.DataAccess.deps.json
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\bin\Debug\net8.0\RestaurantApp.DataAccess.dll
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\bin\Debug\net8.0\RestaurantApp.DataAccess.pdb
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\obj\Debug\net8.0\RestaurantApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\obj\Debug\net8.0\RestaurantApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\obj\Debug\net8.0\RestaurantApp.DataAccess.AssemblyInfo.cs
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\obj\Debug\net8.0\RestaurantApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\obj\Debug\net8.0\RestaurantApp.DataAccess.dll
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\obj\Debug\net8.0\refint\RestaurantApp.DataAccess.dll
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\obj\Debug\net8.0\RestaurantApp.DataAccess.pdb
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\obj\Debug\net8.0\ref\RestaurantApp.DataAccess.dll
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\bin\Debug\net8.0\RestaurantApp.Entity.dll
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\bin\Debug\net8.0\RestaurantApp.Entity.pdb
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\obj\Debug\net8.0\RestaurantApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\obj\Debug\net8.0\Restaura.2094F274.Up2Date
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\bin\Debug\net8.0\RestaurantApp.DataAccess.runtimeconfig.json
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.DataAccess\obj\Debug\net8.0\RestaurantApp.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\bin\Debug\net8.0\RestaurantApp.Entity.deps.json
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\bin\Debug\net8.0\RestaurantApp.Entity.dll
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\bin\Debug\net8.0\RestaurantApp.Entity.pdb
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\obj\Debug\net8.0\RestaurantApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\obj\Debug\net8.0\RestaurantApp.Entity.AssemblyInfoInputs.cache
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\obj\Debug\net8.0\RestaurantApp.Entity.AssemblyInfo.cs
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\obj\Debug\net8.0\RestaurantApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\obj\Debug\net8.0\RestaurantApp.Entity.dll
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\obj\Debug\net8.0\refint\RestaurantApp.Entity.dll
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\obj\Debug\net8.0\RestaurantApp.Entity.pdb
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\obj\Debug\net8.0\ref\RestaurantApp.Entity.dll
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\bin\Debug\net8.0\RestaurantApp.Entity.runtimeconfig.json
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\obj\Debug\net8.0\RestaurantApp.Entity.genruntimeconfig.cache
+C:\Users\fatimaeibad\source\repos\ReatouranApp\RestaurantApp.Entity\obj\Debug\net8.0\RestaurantApp.Entity.csproj.AssemblyReference.cache
